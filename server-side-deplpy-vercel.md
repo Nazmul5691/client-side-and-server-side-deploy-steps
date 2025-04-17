@@ -100,8 +100,9 @@ Follow these steps to deploy your server-side project to Firebase and integrate 
 
 
 
+just thinking
 
-
+```js
 <!-- Server Side Deploy in Firebase 
 
 See ph repo -> job portal resources -> server deploy
@@ -162,3 +163,5 @@ sameSite: process.env.NODE_ENV === "production" ? "none" : "strict",
 
 
  -->
+
+ ```
