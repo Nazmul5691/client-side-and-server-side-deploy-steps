@@ -62,9 +62,9 @@ Follow these steps to deploy your client-side project (e.g., React/Vite app) to 
 
 
 
+just thinking
 
-
-
+```js
 <!-- Client Side Deploy in Firebase 
 
 1. Go to -> firebase.console.google.com
@@ -82,8 +82,12 @@ Follow these steps to deploy your client-side project (e.g., React/Vite app) to 
 
 
 
+
+
 if change something 
 
 1. npm run build
 
 2. firebase deploy -->
+
+```
